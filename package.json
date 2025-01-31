@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  },
+  "name": "autohub",
+  "version": "1.0.0",
+  "main": "autohub.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node autohub.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
