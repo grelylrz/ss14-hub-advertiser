@@ -6,7 +6,8 @@
 - потрачено на это минут 15
 - сырой апи https://github.com/space-wizards/SS14.Web/blob/master/SS14.ServerHub/Controllers/ServerListController.cs
 - это говнокод, я знаю.
-- получается такое
 - не советую создавать больше 50 серверов.
+- Использовать на свой страх и риск.
+- Автор не несёт ответственности за нанесенный ущерб кому либо.
 - ![изображение](https://github.com/user-attachments/assets/c8fd5423-aab8-472e-bc28-af8a22729600)
 - ![изображение](https://github.com/user-attachments/assets/e801cf3e-5403-400b-b4d7-2e2ed7f22aad)
