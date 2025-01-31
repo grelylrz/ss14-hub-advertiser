@@ -5,10 +5,10 @@
   },
   "name": "autohub",
   "version": "1.0.0",
-  "main": "solo.js",
+  "main": "autohub.js",
   "devDependencies": {},
   "scripts": {
-    "start": "node solo.js",
+    "start": "node autohub.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
