@@ -5,7 +5,7 @@ const app = express();
 const portBase = 4000;
 
 const serverCount = 5; // change
-
+process.on('uncaughtException', e => {console.error(e.stack); console.log('Node NOT Exiting...,')})
 const filesDir = path.join(__dirname, 'files');
 const getip = async () => {
   try {
