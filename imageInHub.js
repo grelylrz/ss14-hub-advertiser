@@ -6,7 +6,6 @@ const maxPlayers = 300;
 players = maxPlayers;
 const filesDir = path.join(__dirname, 'files'); // база для последующего изменения под картинки.
 port = 1212;
-ip = null;
 ip = "121.127.37.17" // GOL
 
 // templates
