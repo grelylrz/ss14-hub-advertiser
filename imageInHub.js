@@ -101,7 +101,8 @@ function main() {
         "▓░░░░░▀█▀░░░░▄██▀░░░░░▓ ",
         "▓▓░░░░░░░░▄██▀░░░░░░▓▓ ",
         "▓▓▓▄░░░░░▀█▀▀░░░░░▄▓▓▓"
-    ];    
+    ];
+    console.log(`Starting ${messages.length}`)  
     try {
         for(let gol = 0; gol < messages.length; gol++) {
             crs = createServer();
